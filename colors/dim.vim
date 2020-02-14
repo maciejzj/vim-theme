@@ -43,5 +43,5 @@ else
   highlight StatusLine   ctermfg=15   ctermbg=8    cterm=bold
   highlight StatusLineNC ctermfg=7    ctermbg=8    cterm=NONE
   highlight VertSplit    ctermfg=7    ctermbg=8    cterm=NONE
-  highlight SignColumn                ctermbg=8
+  highlight SignColumn                ctermbg=0
 endif
