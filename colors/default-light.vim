@@ -17,9 +17,9 @@ highlight SpellRare      ctermbg=5
 highlight SpellLocal     ctermbg=14
 highlight PmenuSbar      ctermbg=8
 highlight PmenuThumb     ctermbg=0
-highlight TabLine        cterm=underline ctermfg=0 ctermbg=7
+highlight TabLine        cterm=bold ctermfg=7 ctermbg=0
 highlight TabLineSel     cterm=bold
-highlight TabLineFill    cterm=reverse
+highlight TabLineFill    ctermfg=0 ctermbg=0
 highlight CursorColumn   ctermbg=7
 highlight CursorLine     cterm=underline
 highlight MatchParen     ctermbg=14
