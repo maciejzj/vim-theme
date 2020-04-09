@@ -22,7 +22,7 @@ highlight TabLineSel     cterm=bold
 highlight TabLineFill    ctermfg=0 ctermbg=0
 highlight CursorColumn   ctermbg=7
 highlight CursorLine     cterm=underline
-highlight MatchParen     cterm=underline
+highlight MatchParen     cterm=underline ctermbg=none
 highlight Constant       ctermfg=1
 highlight Special        ctermfg=5
 highlight Identifier     cterm=NONE ctermfg=6
