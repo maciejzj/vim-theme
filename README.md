@@ -1,10 +1,8 @@
 # My vim colorscheme
 
-**Dim** is a clone of Vim’s default colorscheme, with some improvements.
-It comes from [this](https://github.com/jeffkreeftmeijer/vim-dim) repo.
+Based on [Dim](https://github.com/jeffkreeftmeijer/vim-dim) theme.
+Sticks to default Vim theming, but keeps using 16 ANSI colors.
+Makes tabbar less obtrusive.
 
-This version changes the tabbar theming and removes the inversion from
-visual mode so the look fits my liking.
 You can check out my whole config that uses the theme
 [here](https://github.com/MaciejZj/Dotfiles).
-![demo](http://u.cubeupload.com/maciejzj/vimdim.png)
