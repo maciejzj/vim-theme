@@ -1,4 +1,4 @@
-# My vim colorscheme
+# My vim color scheme
 
 Based on [Dim](https://github.com/jeffkreeftmeijer/vim-dim) theme.
 Sticks to default Vim theming, but keeps using 16 ANSI colors.
