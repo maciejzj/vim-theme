@@ -1,6 +1,6 @@
 # My vim color scheme
 
-Based on [Dim](https://github.com/jeffkreeftmeijer/vim-dim) theme.
+Based on the [Dim](https://github.com/jeffkreeftmeijer/vim-dim) theme.
 Sticks to default Vim theming, but keeps using 16 ANSI colors.
 Makes tabbar less obtrusive.
 
