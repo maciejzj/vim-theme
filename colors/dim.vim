@@ -68,7 +68,7 @@ highlight StatusLine ctermfg=15 ctermbg=8 cterm=bold
 highlight StatusLineNC ctermfg=7 ctermbg=8 cterm=NONE
 highlight StatusLineTerm ctermfg=15 ctermbg=8 cterm=bold
 highlight StatusLineTermNC ctermfg=7 ctermbg=8 cterm=NONE
-highlight VertSplit ctermfg=7 ctermbg=8 cterm=NONE
+highlight VertSplit ctermfg=8 ctermbg=0 cterm=NONE
 highlight TabLine ctermbg=8 cterm=NONE
 highlight TabLineFill ctermfg=8
 highlight SignColumn ctermbg=0
