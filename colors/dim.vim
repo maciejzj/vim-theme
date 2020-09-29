@@ -1,7 +1,7 @@
 highlight clear
 
 if exists("syntax_on")
- syntax reset
+    syntax reset
 endif
 
 let colors_name = "dim"
@@ -32,11 +32,11 @@ highlight CursorLine cterm=underline
 highlight MatchParen ctermbg=14
 highlight Constant ctermfg=1
 highlight Special ctermfg=5
-highlight Identifier cterm=NONE ctermfg=6
+highlight Identifier ctermfg=6 cterm=NONE
 highlight Statement ctermfg=3
 highlight PreProc ctermfg=5
 highlight Type ctermfg=2
-highlight Underlined cterm=underline ctermfg=5
+highlight Underlined ctermfg=5 cterm=underline
 highlight Ignore ctermfg=15
 highlight Error ctermfg=15 ctermbg=9
 highlight Todo ctermfg=0 ctermbg=11
@@ -69,6 +69,6 @@ highlight StatusLineNC ctermfg=7 ctermbg=8 cterm=NONE
 highlight StatusLineTerm ctermfg=15 ctermbg=8 cterm=bold
 highlight StatusLineTermNC ctermfg=7 ctermbg=8 cterm=NONE
 highlight VertSplit ctermfg=7 ctermbg=8 cterm=NONE
-highlight TabLine cterm=NONE ctermbg=8
+highlight TabLine ctermbg=8 cterm=NONE
 highlight TabLineFill ctermfg=8
 highlight SignColumn ctermbg=0
