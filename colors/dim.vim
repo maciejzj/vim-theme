@@ -54,6 +54,10 @@ highlight Visual ctermfg=NONE ctermbg=NONE cterm=inverse
 " Highlight search matches in black, with a yellow background
 highlight Search ctermfg=0 ctermbg=11
 
+" For selected items underline instead of highlighting
+highlight MatchParen cterm=underline ctermbg=none
+highlight lspReference cterm=underline
+
 " Dim line numbers, comments, color columns, the status line, splits, tabs and
 " sign columns.
 highlight LineNr ctermfg=8
